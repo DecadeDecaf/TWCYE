@@ -1,0 +1,76 @@
+// CHAPTER 1 SCENE 2 //
+
+/ colorful objects scene
+
+~bg, foyer
+
+~char, narrator
+Noa stepped through a landmine of miscellaneous items scattered throughout Jo Anne’s foyer. 
+
+~char, noa
+~pose, 0
+Why do you have all this junk lying around?
+
+~char, joanne
+Oh, child. It’s not junk you see lying around. These are possessions of potential purpose.
+
+~char, narrator
+Jo Anne picked up some torn wrapping paper with a candy cane pattern and a ball of earth-tone yarn.
+
+~char, noa
+It looks like clutter. What do you use any of this for?
+
+~char, narrator
+Jo Anne set aside the wrapping paper and looked around for another example. She gave up.
+
+~char, joanne
+Come with me.
+It will be easier to just show you.
+
+~bg, artroom
+
+~char, narrator
+Noa stepped into an art room with a large sculpture as its centerpiece. The sculpture was as colorful as it was complicated. One might even describe it as a contraption.
+
+~char, noa
+Oh, wow. You made this?
+
+~char, narrator
+Jo Anne followed Noa into the art room.
+
+~char, joanne
+~pose, 1
+Yes, pupil! Good eye.
+~pose, 0
+Sculptures like this bring love to lost items.
+
+~char, noa
+How did you even think to use some of these things?
+
+~char, narrator
+Noa pointed to an empty crayon box. The cardboard had been deconstructed to give it a new shape.
+
+~char, joanne
+These things needed love.
+
+~char, narrator
+Noa chuckled.
+
+~char, noa
+~pose, 1
+How can you tell if a thing “needs love?”
+
+~char, joanne
+~pose, 0
+I’ll show you, pupil. Follow me outside.
+
+~bg, backyard
+
+~char, narrator
+Jo Anne guided Noa to her back yard, lush with blooming flowers and vibrant plantlife.
+
+~char, joanne
+Take note of the hues that inspire you. Contrast is good.
+
+~char, narrator
+[Objects will change color @FBevery 10 seconds@FR. When you notice something, click to collect it.]

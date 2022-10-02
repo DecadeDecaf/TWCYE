@@ -1,0 +1,44 @@
+// CHAPTER 1 SCENE 1 //
+
+/ hair dye scene
+
+~bg, bathroom
+
+~char, gabby
+~pose, 1
+…and done!
+Let me get the mirror so you can see it better.
+
+~char, narrator
+Gabby left the room and returned with a small mirror.
+Noa spent a few moments looking at her newly-dyed hair.
+
+~char, noa
+I like it. The red streak looks really cool.
+Thanks, mom.
+
+~char, gabby
+Of course! Your hair looks a bit more like mine now, doesn’t it?
+
+~char, noa
+~pose, 0
+Yeah, it does.
+Have you ever dyed your hair?
+
+~char, gabby
+Oh, no. Never.
+
+~char, noa
+Hm. How come my hair isn’t naturally black like yours? Were you blonde when you were my age?
+
+~char, narrator
+Gabby paused.
+
+~char, gabby
+~pose, 2
+Uh — hm — no, I wasn’t.
+Maybe we should ask your dad about this.
+
+~char, noa
+~pose, 0
+I don’t know. Maybe.

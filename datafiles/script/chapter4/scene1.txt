@@ -1,0 +1,64 @@
+// CHAPTER 4 SCENE 1 //
+
+/ epilogue
+
+~bg, study
+
+~char, narrator
+Gabby opened the door to her study after she was finished with her work. Later, Noa walked in.
+
+~char, gabby
+~pose, 1
+Evening.
+
+~char, noa
+~pose, 0
+Hi.
+
+~char, gabby
+Need anything?
+
+~char, noa
+No.
+
+~char, gabby
+Are you okay?
+
+~char, noa
+I’m fine.
+
+~char, narrator
+Noa stood still for a few seconds, staring into space.
+
+~char, noa
+Are you my real mom?
+
+~char, gabby
+~pose, 2
+What?
+
+~char, noa
+Are you my @FBreal@FR mom?
+
+~char, gabby
+Of course I am.
+
+~char, noa
+Did you give birth to me?
+
+~char, narrator
+Gabby hesitated.
+
+~char, gabby
+No. I didn’t. I’m sorry.
+Dad didn’t want to tell you until you were older.
+
+~char, noa
+Why?!
+How could you @FBlie@FR to me?
+
+~char, narrator
+Noa stormed out of the room.
+
+~char, gabby
+Noa!

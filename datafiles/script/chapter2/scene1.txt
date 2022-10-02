@@ -1,0 +1,48 @@
+// CHAPTER 2 SCENE 1 //
+
+/ hereditary anxiety scene
+
+~bg, school
+
+~char, noa
+~pose, 2
+I’m really nervous about today, mom.
+
+~char, gabby
+~pose, 0
+What’s there to be nervous about?
+
+~char, noa
+~pose, 2
+I don’t know. Everything.
+
+~char, narrator
+Noa looked at her hands. She was visibly shaking.
+Gabby pulled Noa into a hug. Noa started crying.
+
+~char, gabby
+Oh, sweetie. It’s okay; it’s okay. We’ll fight this together.
+Do you want to go to a doctor after school and talk about it?
+
+~char, noa
+I think so. Yes.
+
+~char, narrator
+Gabby continued hugging Noa for a long time, until Noa broke the silence.
+
+~char, noa
+~pose, 0
+Does anxiety run in the family?
+
+~char, gabby
+I’m not sure, Noa. I’m not sure.
+
+~char, noa
+…because one time grandma said that she gets anxiety. Maybe that passed down to me.
+
+~char, gabby
+Hm. I think everyone gets anxiety. It doesn’t have to be hereditary.
+Are you ready for school now?
+
+~char, noa
+Yeah. I guess.

@@ -1,0 +1,57 @@
+// CHAPTER 3 SCENE 2 //
+
+/ that which catches your eye
+
+~bg, park
+
+~char, noa
+~pose, 0
+How did you get into making things out of things?
+
+~char, joanne
+Oh I’ve always found “things” intriguing.
+Any time I found something interesting, I collected it. Eventually, I ran out of room, so I turned it all into art.
+
+~char, noa
+So, anything can be turned into art?
+
+~char, joanne
+~pose, 1
+Of course, child.
+Even the most mundane items imaginable.
+
+~char, noa
+~pose, 0
+Like — even a penny?
+
+~char, joanne
+~pose, 1
+Yes! Express yourself through that which catches your eye.
+
+~char, noa
+~pose, 0
+How?
+
+~char, joanne
+Have you ever been looking at books in the library —
+
+~char, narrator
+Noa scoffed.
+
+~char, joanne
+~pose, 2
+Listen, now.
+~pose, 0
+Have you ever been looking at books in the library, and a certain one stuck out?
+
+~char, noa
+I think I understand. Like I’m drawn towards something? Like it’s calling my name?
+
+~char, joanne
+~pose, 1
+Yes! Intuition!
+~pose, 0
+Truly anything may spark creativity.
+
+~char, narrator
+[Objects will sparkle @FBevery 10 seconds@FR. When you notice something, click to collect it.]

@@ -1,0 +1,41 @@
+// CHAPTER 3 SCENE 1 //
+
+/ attention scene
+
+~bg, study
+
+~char, narrator
+Noa knocked on the door to Gabby’s study. Gabby let Noa in.
+
+~char, gabby
+~pose, 0
+Need something, Noa?
+
+~char, noa
+Not really. Are you working?
+
+~char, gabby
+Yes, sweetie. But I’ll be done within the hour.
+
+~char, noa
+Okay. I wish you had more time.
+
+~char, gabby
+I wish I did, too.
+
+~char, noa
+Do you make more money than dad?
+
+~char, gabby
+~pose, 2
+You’d think, wouldn’t you?
+
+~char, noa
+~pose, 0
+Yeah. I don’t know.
+
+~char, gabby
+We can talk tonight, okay?
+
+~char, narrator
+Gabby signaled Noa to the door. Noa left the room.
