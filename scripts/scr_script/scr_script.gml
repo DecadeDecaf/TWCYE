@@ -56,7 +56,7 @@ function next_line() {
 			if (file_text_eof(file)) {
 				body = ""
 				found = true
-				if (g.scene < 2) {
+				if (g.scene < 3) {
 					g.scene++
 					skip = true
 				} else {

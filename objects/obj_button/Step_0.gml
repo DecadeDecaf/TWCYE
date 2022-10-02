@@ -31,7 +31,7 @@ if (point_distance(x, y, xx, yy) < 40) {
 		} else if (image_index == 5) {
 			if (room != rm_game) {
 				with (obj_control) {
-					if (g.scene < 2) {
+					if (g.scene < 3) {
 						g.scene++
 						fading = true
 					} else {

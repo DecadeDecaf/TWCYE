@@ -1,0 +1,98 @@
+// CHAPTER 4 SCENE 2 //
+
+/ epilogue
+
+~bg, park
+
+~char, noa
+~pose, 2
+I can’t face her.
+
+~char, joanne
+Why not?
+
+~char, noa
+She has lied to me for my entire life.
+
+~char, joanne
+What about?
+
+~char, noa
+…being my mom.
+
+~char, joanne
+~pose, 0
+Oh, child. That’s just the thing. She @FBis@FR your mom.
+
+~char, noa
+~pose, 2
+No she’s not! You are!
+
+~char, joanne
+~pose, 0
+No, I think of myself as more an incubator.
+
+~char, noa
+Gross.
+
+~char, joanne
+All I did was bring you into this world. Gabby — she raised you, child.
+
+~char, noa
+Then why would she and dad keep this secret from me?
+
+~char, joanne
+Maybe she was worried that you wouldn’t see her in the same way.
+But you need to understand something, pupil. She loves you.
+
+~char, noa
+~pose, 2
+Do you @FBnot@FR love me?
+
+~char, joanne
+~pose, 1
+I love you more than anything, child. You are everything to me.
+
+~char, noa
+~pose, 0
+Then — why don’t you have custody over me?
+~pose, 2
+Where have you been all this time?
+
+~char, narrator
+Jo Anne sighed.
+
+~char, joanne
+Gabby makes money. I make art. I’m not exactly in the best position to care for you.
+~pose, 1
+But I promise you — I love you.
+
+~char, noa
+~pose, 0
+Can you also promise me that you’ll stay in my life?
+
+~char, joanne
+~pose, 2
+Of course. I will always be here for you.
+~pose, 0
+But please, child. Give Gabby another chance. She cares so deeply about you.
+
+~char, noa
+Okay. I will.
+~pose, 1
+Thanks, not-mom.
+
+~char, narrator
+Jo Anne laughed.
+
+~char, joanne
+You can call me Jo Anne, pupil.
+
+~bg, none
+
+~char, narrator
+[That Which Catches Your Eye was made in less than 48 hours for the Ludum Dare 51.]
+[Everything — design, writing, art, programming, music & lyrics, sound, etc — was made by one person within the timeframe.]
+[Thank you for playing. Stay observant!]
+
+/ game closes

@@ -1,82 +1,8 @@
-// CHAPTER 2 SCENE 2 //
+// SKIP //
 
-/ moving objects scene
+/ timeskip
 
-~bg, foyer
-
-~char, noa
-~pose, 2
-This is all so overwhelming. I don’t know what to do.
+~bg, none
 
 ~char, narrator
-Jo Anne embraced Noa in her arms, hugging tightly and stroking her hair.
-
-~char, noa
-I can’t think straight.
-
-~char, joanne
-shhh…
-
-~char, narrator
-Jo Anne continued silently hugging Noa.
-
-~char, joanne
-I can’t feel you breathing, youngster. Remember to breathe.
-
-~char, noa
-Okay.
-
-~char, narrator
-Noa performed a few deep, audible breaths.
-One… Two… Three…
-
-~char, joanne
-~pose, 0
-Let your mind rest. It deserves the nap, you know.
-
-~char, noa
-I’ll try.
-
-~char, narrator
-Four… Five…
-Noa slowly freed herself from the hug.
-
-~char, noa
-Do you have any more sculptures? Or is it just the one?
-
-~char, joanne
-Of course, child. Would you like to see another?
-
-~char, noa
-Yes, please.
-
-~bg, garage
-
-~char, narrator
-Jo Anne guided Noa towards the garage. In the far corner stood a sculpture similar to the previous one, except more metallic. It had lots of moving parts.
-Noa put her hand up to a Newton’s Cradle with the base removed. The strings were attached to the back of a spade’s handle, leaving the balls suspended high above the floor.
-Noa lifted the ball closest to her and then let go, initiating the lengthy yet satisfying back-and-forth motion.
-Noa looked back at Jo Anne and apologized.
-
-~char, noa
-Sorry for touching it.
-
-~char, joanne
-~pose, 1
-No, please. Keep observing. This is good. Perception is a good skill to have, pupil.
-
-~char, noa
-~pose, 0
-How did you find the stuff for this one? It’s all so fidgety.
-
-~char, joanne
-These things needed a different kind of love. These things needed calm.
-
-~char, noa
-…and how can you tell if a thing “needs calm?”
-
-~char, joanne
-First, slow down. Only then can you notice all the little motions of the world.
-
-~char, narrator
-[Objects will move @FBevery 10 seconds@FR. When you notice something, click to collect it.]
+About a week later…
